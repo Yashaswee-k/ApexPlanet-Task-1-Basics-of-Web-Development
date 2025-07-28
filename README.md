@@ -12,3 +12,5 @@ DURATION:6 WEEKS
 
 #OUTPUT OF WEBPAGE
 <img width="787" height="593" alt="Image" src="https://github.com/user-attachments/assets/fd4bb46d-73e4-4df8-9ad8-e618e08c1d42" />
+
+<img width="740" height="621" alt="Image" src="https://github.com/user-attachments/assets/ca8a1ba0-4e99-40b1-bc3b-eb522f7a22d2" />
